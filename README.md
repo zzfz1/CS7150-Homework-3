@@ -1,4 +1,4 @@
-# CS7150-Homework-3
+# CS7150 Homework 3
 
 This homework has one notebook.  You should also complete the project-proposal form.
 
